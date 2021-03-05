@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 👋
+
+Nice to meet you! Thanks for visiting.
+
+After 19 years of experience as a marketing & communication assistant, I decided in 2018 to take the leap in becoming a professional web developer. My first step was to learn the fundamentals by joining a fulltime curriculum in web development for 7 months. 
+
+Today, I'm looking for my first position as a front-end developer. I have at heart to build interfaces that will make the difference for their users.
+
+- 🔭 I’m currently working on the redesign of my personal website (and getting a job!)
+- 🌱 I’m currently learning the development in Drupal
 
 <!--
 **frren95/frren95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
