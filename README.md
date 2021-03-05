@@ -6,7 +6,7 @@ After 19 years of experience as a marketing & communication assistant, I decided
 
 Today, I'm looking for my first position as a front-end developer. I have at heart to build interfaces that will make the difference for their users.
 
-- 🔭 I’m currently working on the redesign of my personal website (and getting a job!)
+- 🔭 I’m currently working on building a portfolio + the redesign of my personal website (and getting a job!)
 - 🌱 I’m currently learning the development in Drupal
 
 <!--
