@@ -2,12 +2,12 @@
 
 Nice to meet you! Thanks for visiting.
 
-After 19 years of experience as a marketing & communication assistant, I decided in 2018 to take the leap in becoming a professional web developer. My first step was to learn the fundamentals by joining a fulltime curriculum in web development for 7 months. 
+After 19 years of experience as a marketing & communication assistant, I decided in 2018 to make the leap and study to become a professional web developer. My first step was to learn the fundamentals by joining a fulltime curriculum in web development for 7 months. 
 
-Today, I'm looking for my first position as a front-end developer. I have at heart to build interfaces that will make the difference for their users.
+Today, I'm looking for my first position as a front-end developer. I work with HTML, CSS and JavaScript, Angular and WordPress. I have at heart to build interfaces that will make the difference for their users.
 
 - 🔭 I’m currently working on building a portfolio + the redesign of my personal website (and getting a job!)
-- 🌱 I’m currently learning the development in Drupal
+- 🌱 I’m currently learning how to code awesome websites in Drupal
 
 <!--
 **frren95/frren95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
