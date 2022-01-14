@@ -4,7 +4,7 @@ Nice to meet you! Thanks for visiting.
 
 After 19 years of experience in marketing & communication positions, I decided in 2018 to make the leap and study web development. My first step was to learn the fundamentals by joining a fulltime curriculum in web development for 7 months. 
 
-Today, I'm working on front-end projects. I have at heart to build interfaces that make the difference for their users.
+Today, I work on front-end projects. I have at heart to build interfaces that make the difference for their users.
 
 - 🌱 I’m currently learning how to code awesome themes for Drupal websites
 
