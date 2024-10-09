@@ -1,6 +1,14 @@
-### Hello 👋
+### Bonjour 👋
 
-Nice to meet you! Thanks for visiting.
+Bienvenue sur mon espace GitHub.
+
+Je suis Frédérique et travaille dans le domaine de la communication RH en freelance.
+J'ai réalisé en 2018 une formation en développement web pour professionnaliser mes connaissances acquises en autodidacte.
+
+Vous trouverez ici des projets de démonstration ou de formation que je laisse afficher en public.
+
+- 🔭 Je travaille actuellement sur un projet de démo de site carrière construit sous Drupal (version 11).
+- 📫 Pour me contacter, le plus simple est de passer par DM sur [LinkedIn](https://fr.linkedin.com/in/frederiquerenet)
 
 <!--
 **frren95/frren95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
