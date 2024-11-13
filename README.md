@@ -7,7 +7,7 @@ J'ai réalisé en 2018 une formation en développement web pour professionnalise
 
 Vous trouverez ici des projets de démonstration ou de formation que je laisse afficher en public.
 
-- 🔭 Je travaille actuellement sur un projet de démo de site carrière construit sous Drupal (version 11).
+- 🔭 Je travaille actuellement sur un projet de démo de site carrière construit sous Drupal (version 11) et un webzine dédié à l'onboarding de nouveaux entrants sous WordPress.
 - 📫 Pour me contacter, le plus simple est de passer par DM sur [LinkedIn](https://fr.linkedin.com/in/frederiquerenet)
 
 <!--
